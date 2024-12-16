@@ -40,7 +40,7 @@ public class weatherData {
         {
             return "shower";
         }
-        else if(condition>=600 && condition<=700);
+        else if(condition>=600 && condition<=700)
         {
             return "snow2";
         }
